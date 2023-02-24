@@ -1,0 +1,6 @@
+How to setup my windows to splunk
+use by admin privilages
+https://www.youtube.com/watch?v=n8xNy_03i8w
+
+Link
+http://laptop-nrpenfg5:8001/en-GB/app/launcher/home
